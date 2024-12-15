@@ -4,7 +4,7 @@ Web Developer
 ------------- 
 * 🌍 I'm based in Russia
 * 🖥️ See my portfolio at [https://zemskovik.github.io](http://zemskovik.github.io/)
-* ✉️ You can contact me at [igor@zemskoff.su](mailto:igor@zemskoff.su)
+* ✉️ You can contact me at [Telegram](https://t.me/garik_pro)
 * 🧠 I'm learning FastAPI
 * 🤝 I'm open to collaborating on interesting projects
 
