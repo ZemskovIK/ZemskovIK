@@ -20,5 +20,5 @@ Web Developer
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZemskovIK&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="ZemskovIK stats card" /></p>
-<p>&nbsp;
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZemskovIK&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="ZemskovIK stats card" /></p>
