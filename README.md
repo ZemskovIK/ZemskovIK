@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Russia
-* 🖥️  See my portfolio at [http://zemskovik.github.io](http://http://zemskovik.github.io)
+* 🖥️  See my portfolio at [https://zemskovik.github.io](https://zemskovik.github.io)
 * ✉️  You can contact me at [igor@zemskoff.su](mailto:igor@zemskoff.su)
 * 🧠  I'm learning JS, FastAPI
 * 🤝  I'm open to collaborating on interesting projects
