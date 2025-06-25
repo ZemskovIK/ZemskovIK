@@ -44,16 +44,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/zemskovik">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zemskovik&show_icons=true&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemskovik&layout=compact&langs_count=8&theme=react&hide=go,dockerfile"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZemskovIK&show_icons=true&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZemskovIK&layout=compact&langs_count=8&theme=react&hide=go,dockerfile"/>
 </div>
 
 ## 🚀 Recent Activity
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ZemskovIK&theme=react&hide_border=true">
-  </a>
+  <img src="https://streak-stats.demolab.com?user=ZemskovIK&theme=react&hide_border=true">
 </div>
